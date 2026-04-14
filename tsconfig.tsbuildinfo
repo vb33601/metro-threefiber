@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/BuildingPanel.tsx","./src/components/EnvironmentPanel.tsx","./src/components/StatsPanel.tsx","./src/components/TransportPanel.tsx","./src/three/Buildings.tsx","./src/three/City.tsx","./src/three/NPCs.tsx","./src/three/Transport.tsx","./src/three/Vegetation.tsx"],"version":"5.9.3"}
